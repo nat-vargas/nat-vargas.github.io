@@ -1,0 +1,23 @@
+body {
+background-color:mistyrose;
+}
+
+
+
+h2 {
+color:maroon;
+font-family:cursive;
+margin-left: 350px
+}
+
+p {
+color:crimson;
+margin-left: 350px
+}
+
+img {
+border: 5px solid palevioletred;
+width: 50%;
+height: 50%;
+margin-left: 350px
+}
